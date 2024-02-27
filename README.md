@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Colton Glyder and I am currently studying data analytics.
+
 <!--
 **coltonglyder/coltonglyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
